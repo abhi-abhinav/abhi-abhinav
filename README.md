@@ -25,8 +25,8 @@ I'm Abhinav C Yadav!
 
 <h2>📫 How to reach me:</h2>
 <!-- This section you create this variables that are used above -->
-<a href="http:abhi-abhinav.epizy.com" target="_blank">
- ![](hello.webp)
+<a href="http://abhi-abhinav.epizy.com/" target="_blank">
+ <img height="50" src="http://abhi-abhinav.epizy.com/images/hello.png"/>
 </a>
 <a href="https://www.linkedin.com/in/abhinav-c-yadav-7427ab1aa/" target="_blank" rel="noreferrer">
     <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"/>
