@@ -22,16 +22,21 @@ I'm Abhinav C Yadav!
   </p>
 </div>
 
+
 <h2>📫 How to reach me:</h2>
-
 <!-- This section you create this variables that are used above -->
-[website]: http://abhi-abhinav.epizy.com
-[twitter]: https://twitter.com/aabhinav__
-[linkedin]: https://www.linkedin.com/in/abhinav-c-yadav-7427ab1aa/
-
-
-
-
+<a href="http:abhi-abhinav.epizy.com">
+ <img height="50" src="http://abhi-abhinav.epizy.com/images/hello.webp"/>
+</a>
+<a href="https://www.linkedin.com/in/abhinav-c-yadav-7427ab1aa/">
+    <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"/>
+</a>
+<a href="https://twitter.com/aabhinav__">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"/>
+</a>
+<a href="">
+ <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png"/>
+</a>
 
 
 
