@@ -1,4 +1,4 @@
-![Abhinav C Yadav Banner Image](./banner.png)
+![Abhinav C Yadav Banner Image](./banner.webp)
 <!-- <h2 align='center'>Abhinav C Yadav @abhi-abhinav</h2>
 <p align='center'><b>Graduate Student at St.Joseph Engineering College Mangaluru</b></p> -->
 
