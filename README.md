@@ -23,12 +23,10 @@ I'm Abhinav C Yadav!
   </p>
 </div>
 
+- Check out my Website: [http://abhi-abhinav.epizy.com](http://abhi-abhinav.epizy.com)
 
 <h2>📫 How to reach me:</h2>
 <!-- This section you create this variables that are used above -->
-<a href="http://abhi-abhinav.epizy.com/" target="_blank">
- ![](hello.webp)
-</a>
 <a href="https://www.linkedin.com/in/abhinav-c-yadav-7427ab1aa/" target="_blank" rel="noreferrer">
     <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"/>
 </a>
@@ -38,8 +36,6 @@ I'm Abhinav C Yadav!
 <a href="" target="_blank" rel="noreferrer">
  <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png"/>
 </a>
-
-
 
 
 
