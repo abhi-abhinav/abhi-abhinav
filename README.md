@@ -21,9 +21,7 @@ I'm Abhinav C Yadav!
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-abhinav" alt="GitHub Stats" /> <br/><br/>
   </p>
- <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhi_abhinav" alt="WakaTime" />
-  </p>
+ 
 </div>
 
 - Check out my Website: [http://abhi-abhinav.epizy.com](http://abhi-abhinav.epizy.com)
