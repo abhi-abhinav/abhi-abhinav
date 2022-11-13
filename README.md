@@ -34,7 +34,7 @@ I'm Abhinav C Yadav!
 <a href="https://twitter.com/aabhinav__" target="_blank" rel="noreferrer" >
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"/>
 </a>
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/abhinavcyadav/" target="_blank" rel="noreferrer">
  <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png"/>
 </a>
 
