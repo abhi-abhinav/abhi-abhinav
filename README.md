@@ -24,7 +24,7 @@ I'm Abhinav C Yadav!
  
 </div>
 
-- Check out my Website: [http://abhi-abhinav.epizy.com](http://abhi-abhinav.epizy.com)
+- Check out my Website: [https://abhi-abhinav.github.io/abhinav/](https://abhi-abhinav.github.io/abhinav/)
 
 <h2>📫 How to reach me:</h2>
 <!-- This section you create this variables that are used above -->
