@@ -10,7 +10,7 @@
 I'm Abhinav C Yadav!
 
  <i><b>Currently:</b> </i>
-- 👯  CSE Student at SJEC Mangaluru.
+- 👯  CSE Student
 - 🌱  Learning JavaScript
 - 🔭  Working on my css skills 
 
