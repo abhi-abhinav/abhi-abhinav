@@ -19,10 +19,11 @@ I'm Abhinav C Yadav!
 <div>
  <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-abhinav" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-abhinav&show_icons=true&theme=gotham" alt="GitHub Stats" /> <br/><br/>
   </p>
  
 </div>
+
 
 - Check out my Website: [https://abhi-abhinav.github.io/abhinav/](https://abhi-abhinav.github.io/abhinav/)
 
