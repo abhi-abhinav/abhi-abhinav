@@ -28,7 +28,7 @@ From: 11 November 2022 - To: 23 February 2023
 
 Total Time: 2 hrs 36 mins
 
-Other        1 hr 32 mins    >>>>>>>>>>>>>>>----------   59.40 %
+Other        1 hr 32 mins    ███████████████░░░░░░░░░░   59.40 %
 ```
 
 <!--END_SECTION:waka-->
