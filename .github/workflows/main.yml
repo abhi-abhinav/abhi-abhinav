@@ -1,42 +1,21 @@
-name: Wakatime
+name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "30 18 * * *"
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update wakatime stats.
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Install GPG
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y gpg
-
-      - name: Wakatime Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOWS_OS: "True"
-          SHOW_PROJECTS: "True"
-    #     COMMIT_BY_ME: "False"
-    #     SHOW_COMMIT: "False"
-    #     COMMIT_USERNAME: "abhi-abhinav"
-    #     COMMIT_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
-          SHOW_UPDATED_DATE: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
-    #     GH_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
-
-  #    - name: Commit changes
-  #      run: |
-  #        git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
-  #        git config --local user.name "abhi-abhinav"
-  #        git add .
-  #        git commit -S -m "Update wakatime stats"
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
