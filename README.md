@@ -22,6 +22,15 @@ I'm Abhinav C Yadav!
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-abhinav&show_icons=true&theme=gotham" alt="GitHub Stats" /> <br/><br/>
   </p>
  <!--START_SECTION:waka-->
+
+```text
+From: 11 November 2022 - To: 23 February 2023
+
+Total Time: 2 hrs 36 mins
+
+Other        1 hr 32 mins    >>>>>>>>>>>>>>>----------   59.40 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 
