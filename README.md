@@ -21,7 +21,8 @@ I'm Abhinav C Yadav!
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-abhinav&show_icons=true&theme=gotham" alt="GitHub Stats" /> <br/><br/>
   </p>
- 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 
@@ -39,8 +40,7 @@ I'm Abhinav C Yadav!
  <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png"/>
 </a>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!---
 abhi-abhinav/abhi-abhinav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
