@@ -28,11 +28,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "${{ secrets.GIT_USER_EMAIL }}"
-          git config --local user.name "abhi-abhinav"
-          git add .
-          git commit -S -m "Update wakatime stats"
+    
 
           
