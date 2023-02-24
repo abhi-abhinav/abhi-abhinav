@@ -18,6 +18,7 @@ jobs:
           SHOW_PROJECTS: "False"
           COMMIT_BY_ME: "True"
           COMMIT_USERNAME: "abhi-abhinav"
+          COMMIT_EMAIL: "acyadav805@gmail.com"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_DAYS_OF_WEEK: "True"
