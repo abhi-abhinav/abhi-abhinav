@@ -19,7 +19,7 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOWS_OS: "True"
+          SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           COMMIT_BY_ME: "True"
           SHOW_COMMIT: "True"
