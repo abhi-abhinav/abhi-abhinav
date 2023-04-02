@@ -126,7 +126,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 </div>
 
 
-- Check out my Website: [https://abhi-abhinav.github.io/abhinav/](https://abhi-abhinav.github.io/abhinav/)
+- Check out my Website: [https://abhinavcyadav](htts://abhinavcyadav.me)
 
 <!---
 abhi-abhinav/abhi-abhinav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
