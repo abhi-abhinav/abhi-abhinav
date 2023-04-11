@@ -1,4 +1,4 @@
-<img src="http://0x0.st/HsQz.webp" alt="banner of Abhinav C Yadav"> <hr>
+<img src="http://0x0.st/HXU_.png" alt="banner of Abhinav C Yadav"> <hr>
 <!-- <h2 align='center'>Abhinav C Yadav @abhi-abhinav</h2>
 <p align='center'><b>Graduate Student at St.Joseph Engineering College Mangaluru</b></p> -->
 
